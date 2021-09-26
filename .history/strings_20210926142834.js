@@ -1,0 +1,1 @@
+let someString = 'this is a string';
